@@ -15,6 +15,13 @@ Dark Mode: Switch between light and dark themes for a comfortable viewing experi
 Screen Shot:
 <img width="143" alt="1" src="https://github.com/user-attachments/assets/054d935f-6075-48c8-9af0-93fd806ea05f">
 
+<img width="142" alt="2" src="https://github.com/user-attachments/assets/29f8e89a-7bb1-4259-9c6f-5f90640a462e">
+
+<img width="137" alt="3" src="https://github.com/user-attachments/assets/be01366d-e241-44df-a645-d1f42428e0d0">
+
+<img width="141" alt="4" src="https://github.com/user-attachments/assets/94b4ef0e-758e-49cc-a97f-720cd7d5dcf6">
+
+
 
 Technologies Used:
 Kotlin - Programming language for Android development.
