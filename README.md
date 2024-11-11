@@ -12,6 +12,10 @@ Nearby Theaters Locator: Uses Google Maps SDK to show movie theaters near the us
 YouTube Integration: Watch trailers directly within the app using an embedded web view.
 Dark Mode: Switch between light and dark themes for a comfortable viewing experience in various lighting conditions.
 
+Screen Shot:
+<img width="143" alt="1" src="https://github.com/user-attachments/assets/054d935f-6075-48c8-9af0-93fd806ea05f">
+
+
 Technologies Used:
 Kotlin - Programming language for Android development.
 Android Studio - Integrated Development Environment (IDE) used for building the app.
