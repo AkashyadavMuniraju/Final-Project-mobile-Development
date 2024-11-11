@@ -13,6 +13,8 @@ YouTube Integration: Watch trailers directly within the app using an embedded we
 Dark Mode: Switch between light and dark themes for a comfortable viewing experience in various lighting conditions.
 
 Screen Shot:
+
+
 <img width="143" alt="1" src="https://github.com/user-attachments/assets/054d935f-6075-48c8-9af0-93fd806ea05f">
 
 <img width="142" alt="2" src="https://github.com/user-attachments/assets/29f8e89a-7bb1-4259-9c6f-5f90640a462e">
